@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MermeladaJam2025",
+			"Path": "E:\\Github\\MermeladaJam2025\\MermeladaJam2025\\Source\\MermeladaJam2025.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MermeladaJam2025Editor",
+			"Path": "E:\\Github\\MermeladaJam2025\\MermeladaJam2025\\Source\\MermeladaJam2025Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

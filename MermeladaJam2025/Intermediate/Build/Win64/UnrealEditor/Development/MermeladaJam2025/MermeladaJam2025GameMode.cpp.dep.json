@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\mermeladajam2025\\mermeladajam2025\\source\\mermeladajam2025\\mermeladajam2025gamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\mermeladajam2025\\mermeladajam2025\\intermediate\\build\\win64\\mermeladajam2025editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\intermediate\\build\\win64\\unrealeditor\\development\\mermeladajam2025\\definitions.mermeladajam2025.h",
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\source\\mermeladajam2025\\mermeladajam2025gamemode.h",
+            "f:\\motores\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\motores\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\motores\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "f:\\motores\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\intermediate\\build\\win64\\unrealeditor\\inc\\mermeladajam2025\\uht\\mermeladajam2025gamemode.generated.h",
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\source\\mermeladajam2025\\mermeladajam2025playercontroller.h",
+            "f:\\motores\\ue_5.1\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "f:\\motores\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\intermediate\\build\\win64\\unrealeditor\\inc\\mermeladajam2025\\uht\\mermeladajam2025playercontroller.generated.h",
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\source\\mermeladajam2025\\mermeladajam2025character.h",
+            "f:\\motores\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "f:\\motores\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "f:\\motores\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "f:\\motores\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "f:\\motores\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "f:\\motores\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\intermediate\\build\\win64\\unrealeditor\\inc\\mermeladajam2025\\uht\\mermeladajam2025character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Github\\MermeladaJam2025\\MermeladaJam2025\\Source\\MermeladaJam2025\\MermeladaJam2025.Build.cs",
+		"E:\\Github\\MermeladaJam2025\\MermeladaJam2025\\Source\\MermeladaJam2025.Target.cs",
+		"E:\\Github\\MermeladaJam2025\\MermeladaJam2025\\Source\\MermeladaJam2025Editor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

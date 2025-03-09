@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\mermeladajam2025\\mermeladajam2025\\source\\mermeladajam2025\\mermeladajam2025.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\mermeladajam2025\\mermeladajam2025\\intermediate\\build\\win64\\mermeladajam2025editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\intermediate\\build\\win64\\unrealeditor\\development\\mermeladajam2025\\definitions.mermeladajam2025.h",
+            "e:\\github\\mermeladajam2025\\mermeladajam2025\\source\\mermeladajam2025\\mermeladajam2025.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
